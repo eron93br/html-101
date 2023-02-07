@@ -1,2 +1,3 @@
-# html-101
-HTML 101: HTML for beginners
+# HTML 101
+
+This is a personal repo with some introduction to HTML programming language. 
